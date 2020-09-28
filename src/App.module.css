@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(250 , 250 , 250);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.COVIDtitla {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(37, 101, 117);
+}
